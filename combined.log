@@ -74,3 +74,9 @@
 {"level":"info","message":"Session updated successfully:","sessionId":"075c662c-7692-461e-a1dc-df68d1218145","timestamp":"2025-08-14T12:43:47.880Z"}
 {"level":"info","message":"Mood entry created for user 689dbfff97c7933d48762d4e","timestamp":"2025-08-14T12:45:35.037Z"}
 {"level":"info","message":"Mood update event sent successfully","timestamp":"2025-08-14T12:45:35.877Z"}
+{"level":"info","message":"Connected to MongoDB ","timestamp":"2025-08-14T16:17:19.544Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-08-14T16:17:19.554Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-08-14T16:17:19.554Z"}
+{"level":"info","message":"Connected to MongoDB ","timestamp":"2025-08-14T16:58:39.209Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2025-08-14T16:58:39.229Z"}
+{"level":"info","message":"Inngest endpoint available at http://localhost:3001/api/inngest","timestamp":"2025-08-14T16:58:39.230Z"}

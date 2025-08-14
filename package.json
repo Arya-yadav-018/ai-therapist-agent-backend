@@ -4,11 +4,10 @@
   "description": "Backend for AI Therapy Agent",
   "main": "dist/index.js",
   "scripts": {
-    "start": "nodemon dist/index.js",
-    "dev": "nodemon src/index.ts",
     "build": "tsc",
-    "test": "jest"
+    "start": "node dist/index.js"
   },
+
   "dependencies": {
     "@google/genai": "^1.6.0",
     "@google/generative-ai": "^0.5.0",
